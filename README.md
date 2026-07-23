@@ -6,12 +6,6 @@ Awesome FOSS iOS Apps list (Chinese)
 
 **收錄標準：** 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。這些都是我用過並參考網友經驗，覺得不錯才放進列表的，有些用途太狹隘、單純只是reference implementation、沒在維護的、設計不良的APP並不會包含進去。
 
-iOS從底層就幾乎是全封閉的系統，且App Store幾乎沒有GPL授權的軟體上架，幾無自由可言。但是，仍有許多爲iOS開發的自由開源軟體存在，雖然使用較爲寬鬆的授權條款但仍算是自由軟體，向這些開發者致敬。
-
-伍佰在《讓水倒流》曾經說過：
-
-> 命運不可逆，但適度的反抗是必須的。人生不可逆，但靈魂的自由是必須的。
-
 我了解，相較於Android能透過刷LineageOS + Degoogle + F-Droid實現近乎全開源環境，iOS不太可能做到全開源，很多日常APP都沒有替代品，要嘛只能依賴iOS內建的APP，要嘛只能使用專有軟體。這裡我盡量做到不依賴閉源軟體。尤其是綁死一個系統才能使用的軟體。希望最重要的資料可以在各大作業系統之間互通有無。
 
 請善用右邊的目錄快速跳轉。Github可以點選README右上角的三個點顯示目錄。
@@ -174,7 +168,7 @@ iOS從底層就幾乎是全封閉的系統，且App Store幾乎沒有GPL授權�
 
 | 名稱 | 簡介 |
 | --- | --- |
-| [Bitarden](https://apps.apple.com/tw/app/id1137397744) | 跨平台同步的密碼管理器。 |
+| [Bitwarden](https://apps.apple.com/tw/app/id1137397744) | 跨平台同步的密碼管理器。 |
 | [Floccus](https://apps.apple.com/tw/app/id1626998357)| 跨平台同步瀏覽器書籤。|
 | [KDE Connect](https://apps.apple.com/tw/app/id1580245991) | 跨平台傳檔案，共享剪貼簿，手機當電腦遙控器。 |
 | [LocalSend](https://apps.apple.com/tw/app/id1661733229)  | 跨平台檔案分享，不用註冊帳號。 |
