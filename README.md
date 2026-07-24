@@ -76,8 +76,6 @@ Awesome FOSS iOS Apps list (Chinese)
 | [Collabora Office](https://apps.apple.com/tw/app/collabora-office/id1440482071) | Microsoft Office替代品，LibreOffice的fork。適合開啟ODF格式的文件、試算表、投影片。 |
 | [OnlyOffice](https://apps.apple.com/tw/app/id944896972)| Microsoft Office替代品，適合開啟ODF與Word的文件。 |
 | [OpenDocument Reader](https://apps.apple.com/tw/app/id1510195065)  | 開啓與編輯ODF檔案。 |
-| [「仓」输入法](https://apps.apple.com/tw/app/id6446617683) | 跨平臺輸入法框架RIME的iOS移植版，支援拼音、注音。提供OpenCC簡轉繁。 |
-| [Fcitx5-iOS](https://github.com/fcitx-contrib/fcitx5-ios) | 跨平臺的輸入法框架，支援拼音、注音。提供OpenCC簡轉繁。 |
 | [Mattermost](https://apps.apple.com/tw/app/id1257222717) | 開源群組通訊系統，類似Slack。 |
 | [Jami](https://apps.apple.com/tw/app/id1306951055) | 開源遠端會議應用，點對點加密，使用不需要註冊，伺服器可自架。 |
 | [Jitsi Meet](https://apps.apple.com/tw/app/id1165103905) | 開源遠端會議應用，使用不需要註冊，伺服器可自架。 |
@@ -133,6 +131,15 @@ Awesome FOSS iOS Apps list (Chinese)
 | [Paperback](https://apps.apple.com/tw/app/id1626613373) | 看漫畫APP，透過安裝擴充套件存取各大漫畫網站。 |
 | [Yattee](https://github.com/yattee/yattee) | 無廣告Youtube客戶端，透過連線到yt-dlp伺服器來觀看Youtube影片，也可以存取Invidous站台代理Youtube影片。|
 | [YouTube Plus](https://github.com/dayanch96/YTLite) | 針對Youtube官方APP修改的版本，加入許多自定義功能，例如懸浮播放、去廣告、顯示倒讚、SponsorBlock擋業配廣告。需要付費才能使用。|
+
+
+## 輸入法
+
+| 名稱 | 簡介 |
+| --- | --- |
+| [「仓」输入法](https://apps.apple.com/tw/app/id6446617683) | 跨平臺輸入法框架RIME的iOS移植版，支援拼音、注音。提供OpenCC簡轉繁。 |
+| [Fcitx5-iOS](https://github.com/fcitx-contrib/fcitx5-ios) | 跨平臺的輸入法框架，支援拼音、注音。提供OpenCC簡轉繁。 |
+| [萊姆輸入法](https://apps.apple.com/tw/app/id6784694460) | 繁體中文爲主的輸入法，支援注音、倉頡、大易、行列、輕鬆、速成、拼音，並有許氏與倚天鍵盤排列方式。 |
 
 
 ## 遊戲
