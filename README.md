@@ -57,6 +57,35 @@ Awesome FOSS iOS Apps list (Chinese)
 | [AdGuard](https://apps.apple.com/tw/app-bundle/id1893320718) | 全域擋廣告DNS，需要付費。 |
 
 
+## 通訊軟體
+
+| 名稱 | 簡介 |
+| --- | --- |
+| [Element X](https://apps.apple.com/tw/app/id1631335820) | Elements公司經營的，支援Matrix協定的點對點加密聊天APP，提供視訊通話，類似Discord。 |
+| [FluffyChat](https://apps.apple.com/tw/app/id1551469600)  | 非營利組織開發的，支援Matrix協定的點對點加密聊天APP。 |
+| [Mumble-iOS](https://apps.apple.com/tw/app/id443472808) | 遊戲語音群聊軟體。|
+| [ProtonMail](https://apps.apple.com/tw/app/id979659905)  | 瑞士公司經營的加密電子郵件服務。 |
+| [Tutanota](https://apps.apple.com/tw/app/id922429609) | 德國公司經營的加密電子郵件服務。 |
+| [SimpleX](https://apps.apple.com/tw/app/id1605771084)  | 點對點加密通訊軟體，使用雙棘輪加密反竊聽，註冊不需要電子郵件或電話號碼。 |
+| [Signal](https://apps.apple.com/tw/app/id874139669)  | 非營利組織經營的點對點加密通訊軟體，使用雙棘輪加密反竊聽。註冊需要電話號碼。 |
+| [Telegram](https://apps.apple.com/tw/app/id686449807) | 免費通訊軟體，支援點對點加密。註冊需要電話號碼。 |
+| [Thunderbird](https://github.com/thunderbird/thunderbird-ios)  | 開源電子郵件客戶端，開發中。 |
+
+
+## 主題裝飾
+
+|名稱|簡介|
+|---|---|
+|||
+
+
+## 檔案管理器
+
+|名稱|簡介|
+|---|---|
+|||
+
+
 ## 生產力
 
 | 名稱 | 簡介 |
@@ -76,17 +105,10 @@ Awesome FOSS iOS Apps list (Chinese)
 | [Collabora Office](https://apps.apple.com/tw/app/collabora-office/id1440482071) | Microsoft Office替代品，LibreOffice的fork。適合開啟ODF格式的文件、試算表、投影片。 |
 | [OnlyOffice](https://apps.apple.com/tw/app/id944896972)| Microsoft Office替代品，適合開啟ODF與Word的文件。 |
 | [OpenDocument Reader](https://apps.apple.com/tw/app/id1510195065)  | 開啓與編輯ODF檔案。 |
+| [Nextcloud](https://apps.apple.com/tw/app/id1125420102) | 自架雲端硬碟，內建Nextcloud Office網頁版功能。 |
 | [Mattermost](https://apps.apple.com/tw/app/id1257222717) | 開源群組通訊系統，類似Slack。 |
 | [Jami](https://apps.apple.com/tw/app/id1306951055) | 開源遠端會議應用，點對點加密，使用不需要註冊，伺服器可自架。 |
 | [Jitsi Meet](https://apps.apple.com/tw/app/id1165103905) | 開源遠端會議應用，使用不需要註冊，伺服器可自架。 |
-| [Mumble-iOS](https://apps.apple.com/tw/app/id443472808) | 遊戲語音群聊軟體。|
-| [ProtonMail](https://apps.apple.com/tw/app/id979659905)  | 瑞士公司經營的加密電子郵件服務。 |
-| [Tutanota](https://apps.apple.com/tw/app/id922429609) | 德國公司經營的加密電子郵件服務。 |
-| [SimpleX](https://apps.apple.com/tw/app/id1605771084)  | 點對點加密通訊軟體，使用雙棘輪加密反竊聽，註冊不需要電子郵件或電話號碼。 |
-| [Signal](https://apps.apple.com/tw/app/id874139669)  | 非營利組織經營的點對點加密通訊軟體，使用雙棘輪加密反竊聽。註冊需要電話號碼。 |
-| [Telegram](https://apps.apple.com/tw/app/id686449807) | 免費通訊軟體，支援點對點加密。註冊需要電話號碼。 |
-| [Thunderbird](https://github.com/thunderbird/thunderbird-ios)  | 開源電子郵件客戶端，開發中。 |
-| [Nextcloud](https://apps.apple.com/tw/app/id1125420102) | 自架雲端硬碟，內建Nextcloud Office網頁版功能。 |
 | [OpenFind](https://apps.apple.com/tw/app/id6443969902)  | 搜尋圖片中的文字。 |
 | [Clip](https://github.com/rileytestut/Clip) | 剪貼簿歷史管理工具。 |
 | [Foqos](https://apps.apple.com/tw/app/id6736793117) | 封鎖APP或網站，保存專注。需要掃QR Code或者NFC tag才能解鎖APP。 |
@@ -116,8 +138,6 @@ Awesome FOSS iOS Apps list (Chinese)
 
 | 名稱 | 簡介 |
 | --- | --- |
-| [Element X](https://apps.apple.com/tw/app/id1631335820) | Elements公司經營的，支援Matrix協定的點對點加密聊天APP，提供視訊通話，類似Discord。 |
-| [FluffyChat](https://apps.apple.com/tw/app/id1551469600)  | 非營利組織開發的，支援Matrix協定的點對點加密聊天APP。 |
 | [Bluesky](https://apps.apple.com/tw/app/id6444370199) | 去中心化社群媒體。 |
 | [Mastodon](https://apps.apple.com/tw/app/id1571998974)  | 去中心化社群媒體。 |
 | [Infinity for Reddit](https://apps.apple.com/tw/app/id6759064642) | 無廣告第三方Reddit客戶端。 |
@@ -131,6 +151,20 @@ Awesome FOSS iOS Apps list (Chinese)
 | [Paperback](https://apps.apple.com/tw/app/id1626613373) | 看漫畫APP，透過安裝擴充套件存取各大漫畫網站。 |
 | [Yattee](https://github.com/yattee/yattee) | 無廣告Youtube客戶端，透過連線到yt-dlp伺服器來觀看Youtube影片，也可以存取Invidous站台代理Youtube影片。|
 | [YouTube Plus](https://github.com/dayanch96/YTLite) | 針對Youtube官方APP修改的版本，加入許多自定義功能，例如懸浮播放、去廣告、顯示倒讚、SponsorBlock擋業配廣告。需要付費才能使用。|
+
+
+## 健康
+
+|名稱|簡介|
+|---|---|
+|||
+
+
+## 理財
+
+|名稱|簡介|
+|---|---|
+|||
 
 
 ## 輸入法
@@ -167,7 +201,6 @@ Awesome FOSS iOS Apps list (Chinese)
 | [NewTerm](https://github.com/hbang/NewTerm) | iOS終端機，需要越獄才能使用。|
 | [Code App by thebaselab](https://apps.apple.com/tw/app/code-app/id1512938504)| 介面長得很像Visual Studio Code的IDE，內建Git與終端機，支援編譯原生Python、NodeJS、PHP、C、Java程式。App Store版為付費軟體。 |
 | [Harbour](https://apps.apple.com/tw/app/id1582439659) | 遠端管理Portainer的Docker容器。 |
-| [Free42](https://apps.apple.com/tw/app/id337692629) | 模擬HP-42S介面的科學工程計算機。 |
 | [Edhita](https://apps.apple.com/tw/app/id398896655) | 文字編輯器，兼具HTML預覽功能。 |
 
 
@@ -183,3 +216,4 @@ Awesome FOSS iOS Apps list (Chinese)
 | [Moonlight Game Streaming](https://apps.apple.com/tw/app/id1000551566) | 遠端桌面兼雲端串流遊戲，支援低延遲與HDR。 |
 | [AirDash](https://apps.apple.com/tw/app/id1596599922) | 跨平臺傳檔工具。|
 | [OnionShare](https://apps.apple.com/tw/app/id1601890129) | 透過Tor網路匿名分享檔案。|
+| [Free42](https://apps.apple.com/tw/app/id337692629) | 模擬HP-42S介面的科學工程計算機。 |
