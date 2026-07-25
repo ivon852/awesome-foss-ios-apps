@@ -3,6 +3,7 @@
 Awesome FOSS iOS Apps list (Chinese)
 
 一些我覺得好用的自由及開放原始碼 (Free and Open Source) 的iOS APP，適用iPhone與iPad。
+<img src="images/awesome-foss-ios-apps.webp" width=300>
 
 **收錄標準：** 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。這些都是我用過並參考網友經驗，覺得不錯才放進列表的，有些用途太狹隘、單純只是reference implementation、沒在維護的、設計不良的APP並不會包含進去。
 
@@ -123,6 +124,7 @@ Awesome FOSS iOS Apps list (Chinese)
 | [BookPlayer](https://apps.apple.com/tw/app/id1138219998) | 有聲書播放器，提供睡眠定時器功能。 |
 | [MetaX](https://apps.apple.com/tw/app/id1376589355) | 編輯照片EXIF，一鍵刪除照片GPS資料。 |
 | [Moblin](https://apps.apple.com/tw/app/id6466745933) | 直播軟體，串流UVC相機畫面。可搭配空拍機使用。 |
+| [VDO Ninja](https://github.com/steveseguin/vdo.ninja) |讓手機鏡頭與麥克風變成電腦的Webcam，並投影到網頁串流。|
 
 
 ## 導航
@@ -144,8 +146,8 @@ Awesome FOSS iOS Apps list (Chinese)
 | [Wordpress](https://apps.apple.com/tw/app/id335703880)  | 官方客戶端，線上存取Wordpress網站。 |
 | [FeedFlow](https://apps.apple.com/tw/app/id6447210518) | RSS閱讀器。 |
 | [NetNewsWire](https://apps.apple.com/tw/app/id1480640210) | RSS閱讀器，支援跨裝置同步。 |
-| [JHentai](https://github.com/jiangtian616/JHenTai) | 使用Flutter寫成的跨平台E-hentai閱讀器，提供雙頁閱讀界面。 |
-| [EhPanda](https://github.com/EhPanda-Team/EhPanda) | 使用Swift寫成的E-hentai閱讀器。 |
+| [JHentai](https://github.com/jiangtian616/JHenTai) | 使用Flutter寫成的跨平台E-hentai閱讀器，提供雙頁閱讀界面，可以下載漫畫離線閱讀。 |
+| [EhPanda](https://github.com/EhPanda-Team/EhPanda) | 使用Swift寫成的E-hentai閱讀器，支援雙頁模式。不能下載漫畫，只能下載種子。 |
 | [Aidoku](https://github.com/Aidoku/Aidoku) | 看漫畫APP，透過安裝擴充套件存取各大漫畫網站。 |
 | [Mangayomi](https://github.com/kodjodevf/mangayomi) | 看漫畫與動漫的APP，模仿Mihon的設計理念，透過安裝擴充套件存取各大漫畫網站。 |
 | [Paperback](https://apps.apple.com/tw/app/id1626613373) | 看漫畫APP，透過安裝擴充套件存取各大漫畫網站。 |
@@ -173,7 +175,7 @@ Awesome FOSS iOS Apps list (Chinese)
 | --- | --- |
 | [「仓」输入法](https://apps.apple.com/tw/app/id6446617683) | 跨平臺輸入法框架RIME的iOS移植版，支援拼音、注音。提供OpenCC簡轉繁。 |
 | [Fcitx5-iOS](https://github.com/fcitx-contrib/fcitx5-ios) | 跨平臺的輸入法框架，支援拼音、注音。提供OpenCC簡轉繁。 |
-| [萊姆輸入法](https://apps.apple.com/tw/app/id6784694460) | 繁體中文爲主的輸入法，支援注音、倉頡、大易、行列、輕鬆、速成、拼音，並有許氏與倚天鍵盤排列方式。 |
+| [萊姆輸入法LIME](https://apps.apple.com/tw/app/id6784694460) | 繁體中文爲主的輸入法，支援注音、倉頡、大易、行列、輕鬆、速成、拼音，並有許氏與倚天鍵盤排列方式。詞庫以臺灣用語爲主。提供繁簡轉換、分離式鍵盤、語音輸入。界面有許多自定義按鈕。支援實體鍵盤。 |
 
 
 ## 遊戲
