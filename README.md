@@ -3,7 +3,10 @@
 Awesome FOSS iOS Apps list (Chinese)
 
 一些我覺得好用的自由及開放原始碼 (Free and Open Source) 的iOS APP，適用iPhone與iPad。
+
+<p align="center">
 <img src="images/awesome-foss-ios-apps.webp" width=300>
+</p>
 
 **收錄標準：** 開發者需提供APP完整原始碼，並使用符合自由軟體基金會認可的自由軟體授權條款（如GPL、MPL、BSD、MIT、Apache等）。部分使用開源函式庫，但APP本體閉源發佈的不能算做開源。這些都是我用過並參考網友經驗，覺得不錯才放進列表的，有些用途太狹隘、單純只是reference implementation、沒在維護的、設計不良的APP並不會包含進去。
 
