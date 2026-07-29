@@ -165,7 +165,7 @@ Awesome FOSS iOS Apps list (Chinese)
 
 |名稱|簡介|
 |---|---|
-|||
+| [Flow](https://apps.apple.com/tw/app/flow-expense-tracker/id6477741670) | 跨平台記帳APP，可離線使用。|
 
 
 ## 輸入法
