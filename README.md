@@ -172,6 +172,7 @@ Awesome FOSS iOS Apps list (Chinese)
 
 | 名稱 | 簡介 |
 | --- | --- |
+| [AI Dictation](https://apps.apple.com/tw/app/id6754910103) | 開源語音轉文字鍵盤，支援iPhone與iPad。可在支援第三方鍵盤的文字欄位聽寫；iOS 17以上可下載離線模型，也可選用雲端轉錄與整理。[原始碼](https://github.com/writingmate/aidictation)採MIT授權。 |
 | [「仓」输入法](https://apps.apple.com/tw/app/id6446617683) | 跨平臺輸入法框架RIME的iOS移植版，支援拼音、注音。提供OpenCC簡轉繁。 |
 | [Fcitx5-iOS](https://github.com/fcitx-contrib/fcitx5-ios) | 跨平臺的輸入法框架，支援拼音、注音。提供OpenCC簡轉繁。 |
 | [萊姆輸入法LIME](https://apps.apple.com/tw/app/id6784694460) | 繁體中文爲主的輸入法，支援注音、倉頡、大易、行列、輕鬆、速成、拼音，並有許氏與倚天鍵盤排列方式。詞庫以臺灣用語爲主。提供繁簡轉換、分離式鍵盤、語音輸入。界面有許多自定義按鈕。支援實體鍵盤。 |
