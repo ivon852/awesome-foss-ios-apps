@@ -166,6 +166,7 @@ Awesome FOSS iOS Apps list (Chinese)
 |名稱|簡介|
 |---|---|
 | [Flow](https://apps.apple.com/tw/app/flow-expense-tracker/id6477741670) | 跨平台記帳APP，可離線使用。|
+| [Oath Wallet](https://github.com/devdasx/oath-wallet) | 使用 Swift/SwiftUI 開發的 iPhone/iPad 多鏈加密貨幣錢包，採用 MIT 授權。原始碼版本與 App Store 版本狀態請參閱儲存庫的發行紀錄。|
 
 
 ## 輸入法
